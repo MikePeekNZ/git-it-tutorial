@@ -1,3 +1,5 @@
 This is file1 for the git-it tutorial
 
 This is an additional edit to file1.
+
+Here is another line because I was too hasty commiting the last change.
